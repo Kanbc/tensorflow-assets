@@ -2,6 +2,11 @@ This repository was designed for easily reading into TensorFlow, through example
 
 *TF v1.9+ recommended*
 
+## Dataset
+
+1. cat and dog [(source)](https://www.kaggle.com/c/dogs-vs-cats/data)
+
+
 ## Index
 
 #### 0 - Prerequisite
