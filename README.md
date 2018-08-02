@@ -32,7 +32,7 @@ This repository was designed for easily reading into TensorFlow, through example
 - **Word2Vec (Word Embedding)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/word2vec.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/word2vec.py)). Build a Word Embedding Model (Word2Vec) from Wikipedia data, with TensorFlow. -->
 
 ##### Unsupervised
-- **One-Class Support Vector Machines** ([notebook](https://github.com/Kanbc/tensorflow-assets/blob/master/notebook/3_neural_networks/autoencoder.ipynb)) Build a decision function for anomaly detection: classifying new data as similar or different to the training set..
+- **One-Class Support Vector Machines** ([notebook](https://github.com/Kanbc/tensorflow-assets/blob/master/notebook/2_basic_models/OC-SVM.ipynb)) Build a decision function for anomaly detection: classifying new data as similar or different to the training set.
 
 #### 3 - Neural Networks
 ##### Supervised
